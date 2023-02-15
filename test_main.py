@@ -35,6 +35,6 @@ if __name__ == "__main__":
     unittest.main()
 
 
-""" para lograr que se ejecute esto, en la terminal de VSC ejecute esto: 
-.\__pycache__\__pycache__\main.cpython-310.pyc
-se abrira una ventana que ejecuta el servidor y de ahi ejecutas esta ventana y corre el test"""
+""" para lograr que se ejecute el test, en la terminal de VSC ejecute este archivo: 
+main.cpython-310.pyc
+se abrira una ventana que ejecuta el servidor y de ahi ejecute esta ventana y corre el test"""
