@@ -36,5 +36,5 @@ if __name__ == "__main__":
 
 
 """ para lograr que se ejecute el test, en la terminal de VSC ejecute este archivo: 
-main.cpython-310.pyc
-se abrira una ventana que ejecuta el servidor y de ahi ejecute esta ventana y corre el test"""
+    "main.cpython-310.pyc"
+    se abrira una ventana que ejecuta el servidor y de ahi ejecute esta ventana y corre el test"""
